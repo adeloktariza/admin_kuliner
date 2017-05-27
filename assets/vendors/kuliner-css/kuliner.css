@@ -1,0 +1,117 @@
+body {
+  color:#C1C1C1 !important;
+}
+a {
+  color:#C1C1C1 !important;
+}
+a:hover, a:focus {
+  color:#F0F0EE !important;
+}
+
+.login_content {
+  text-shadow: none !important;
+}
+.login {
+  background-color: #655080 !important;
+}
+.form-login-kuliner {
+
+  background-color: #000;
+}
+a.btn.btn-default.submit {
+  width: 100%;
+  color:#000 !important;
+}
+.img-logo {
+	position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+.img-logo img {
+	width: 80px;
+	height: 80px;
+}
+.site_title.logo {
+    font-weight: 400;
+    font-size: 22px;
+    width: 100%;
+    line-height: 40px;
+    display: block;
+    height: 46px;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+.navbar.nav_title {
+	border-bottom: 1px solid #ccc;
+}
+.nav-md .container.body .col-md-3.left_col {
+    min-height: 100%;
+    width: 230px;
+    padding: 0;
+    position: fixed !important;
+    display: -ms-flexbox;
+    display: flex;
+    z-index: 1;
+}
+.image-cover {
+	height: 160px;
+	overflow: hidden;
+	padding: 10px;
+}
+.image-cover img {
+	width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+}
+.user-photo{
+	padding: 10px 0px 0px;
+}
+.photo {
+	width: 150px;
+    height: 150px;
+    background: #fff;
+    margin-left: 30px;
+    margin-top: -90px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    float: left;
+}
+.name-resto{
+    width: 500px;
+    float: left;
+    font-size: 30px;
+    padding: 0px 15px;
+    color: #000;
+    min-height: 59px;
+}
+a.btn-cover {
+	float: right;
+    width: 150px;
+    background-color: #655080;
+    text-align: center;
+    min-height: 30px;
+    padding: 5px;
+    margin: 0px 10px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+a.btn-image {
+	float: left;
+    width: 150px;
+    background-color: #655080;
+    text-align: center;
+    min-height: 30px;
+    padding: 10px;
+    margin: 0px 10px;
+}
+a.btn-cover:hover, a.btn-image:hover {
+	color: #fff;
+}
+
+.username-bar,.address-bar {
+	font-size: 20px;
+    color: #000;
+}
